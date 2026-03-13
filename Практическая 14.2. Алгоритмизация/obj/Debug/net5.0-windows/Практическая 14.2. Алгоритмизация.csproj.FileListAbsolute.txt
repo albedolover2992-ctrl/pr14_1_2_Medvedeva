@@ -1,0 +1,18 @@
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.exe
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.deps.json
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.runtimeconfig.json
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.runtimeconfig.dev.json
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.dll
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\ref\Практическая 14.2. Алгоритмизация.dll
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\bin\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.pdb
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая_14._2._Алгоритмизация.Form1.resources
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.AssemblyInfoInputs.cache
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.AssemblyInfo.cs
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.dll
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\ref\Практическая 14.2. Алгоритмизация.dll
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.pdb
+C:\Users\305-2\Desktop\Практическая 14.2. Алгоритмизация\obj\Debug\net5.0-windows\Практическая 14.2. Алгоритмизация.genruntimeconfig.cache
